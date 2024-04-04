@@ -1,0 +1,4 @@
+#+TITLE: Recursion
+#+AUTHOR: Bilel Hamitouche
+
+Simple recursion exercises. Solutions to fibonacci series and merge sort in JavaScript using recursion.
